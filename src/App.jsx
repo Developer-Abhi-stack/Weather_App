@@ -1,9 +1,10 @@
+import Weather from "./components/Weather"
 
 
 const App = () => {
   return (
-    <div>
-      <h1>Hello, Developer !</h1>
+    <div className="app">
+      <Weather />
     </div>
   )
 }
