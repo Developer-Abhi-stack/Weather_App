@@ -34,10 +34,7 @@ The Weather Forecast Dashboard is a web application that provides real-time weat
 
 4. **Set up environment variables:**
    - Create a `.env` file in the root of the project.
-   - Add your OpenWeatherMap API key:
-     ```
-     VITE_APP_ID="0e85d3ef1acdd29c790ea6fcd817ee3d"
-     ```
+   
 
 5. **Start the development server:**
    ```bash
